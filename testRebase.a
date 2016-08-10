@@ -18,3 +18,8 @@ new1 3
 
 master 3m
 master 3m2
+new3 1
+new3 2
+
+amend test1
+amend test2
