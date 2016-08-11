@@ -1,6 +1,7 @@
 add 1
 f2:new1
 f3:new2
+f3:new3
 master begin
 master end
 new begin
